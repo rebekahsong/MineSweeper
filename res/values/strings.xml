@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MineSweep</string>
+    <string name="LOSING_TEXT">You lost, restart to play again</string>
+    <string name="SET_FLAG">Tap to set a flag</string>
+    <string name="REVEAL_FIELD">Tap to reveal a field</string>
+    <string name="WINNING_TEXT">You won, restart to play again</string>
+    <string name="ZERO_STR">0</string>
+    <string name="ONE_STR">1</string>
+    <string name="TWO_STR">2</string>
+    <string name="THREE_STR">3</string>
+    <string name="MINESWEEPER">MINESWEEPER</string>
+    <string name="FLAG">Flag</string>
+    <string name="RESTART">Restart</string>
+    <string name="REVEAL">Reveal</string>
+</resources>
